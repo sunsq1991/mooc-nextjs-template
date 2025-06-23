@@ -1,0 +1,115 @@
+{
+  "Error": {
+    "description": "<p>很抱歉，我们遇到了错误。</p><p>您可以尝试<retry>重新加载</retry>您正在访问的页面。</p>",
+    "title": "出现了错误！"
+  },
+  "IndexPage": {
+    "description": "这是一个基本示例，演示了如何在Next.js App Router中使用<code>next-intl</code>。尝试更改右上角的语言，看看内容如何变化。",
+    "title": "next-intl示例"
+  },
+  "LocaleLayout": {
+    "title": "next-intl示例"
+  },
+  "LocaleSwitcher": {
+    "label": "更改语言",
+    "locale": "{locale, select, de {德语} en {英语} zh-CN {简体中文} zh-TW {繁体中文} other {未知}}"
+  },
+  "Manifest": {
+    "name": "next-intl示例"
+  },
+  "Navigation": {
+    "home": "首页",
+    "pathnames": "路径名",
+    "about": "关于我们",
+    "blog": "博客",
+    "contact": "联系我们"
+  },
+  "NotFoundPage": {
+    "description": "请检查浏览器地址栏或使用导航前往已知页面。",
+    "title": "页面未找到"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "在官方文档中了解更多关于next-intl的信息。",
+        "href": "https://next-intl.dev",
+        "title": "文档"
+      },
+      "source": {
+        "description": "在GitHub上浏览此示例的源代码。",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "源代码"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>路径名也是国际化的。</p><p>如果您使用默认语言英语，您将在此页面的浏览器地址栏中看到<code>/en/pathnames</code>。</p><p>如果您将语言更改为德语，URL将相应本地化（<code>/de/pfadnamen</code>）。</p>",
+    "title": "路径名"
+  },
+  "AboutPage": {
+    "title": "关于我们",
+    "ourStory": {
+      "title": "我们的故事",
+      "description": "成立于2023年，我们一直致力于提供创新解决方案。我们的旅程始于一个简单的想法：让技术对每个人都可以访问，并已发展成为一个全面的学习和成长平台。"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "description": "我们努力通过技术教育赋能个人和组织。我们的团队致力于在所有工作中提供卓越服务。"
+    },
+    "team": {
+      "title": "我们的团队",
+      "member1": {
+        "name": "张伟",
+        "role": "首席执行官兼创始人"
+      }
+    }
+  },
+  "BlogPage": {
+    "title": "博客",
+    "latestPosts": "最新文章",
+    "readMore": "阅读更多",
+    "posts": {
+      "1": {
+        "title": "Next.js入门",
+        "excerpt": "学习如何使用Next.js构建现代Web应用程序"
+      },
+      "2": {
+        "title": "Tailwind CSS的强大功能",
+        "excerpt": "发现Tailwind CSS如何加速您的设计工作流程"
+      },
+      "3": {
+        "title": "使用next-intl进行国际化",
+        "excerpt": "如何使您的Next.js应用支持多种语言"
+      }
+    }
+  },
+  "ContactPage": {
+    "title": "联系我们",
+    "getInTouch": "取得联系",
+    "contactIntro": "有问题或想了解更多？填写下面的表单，我们的团队将尽快回复您。",
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "您的姓名",
+      "email": "电子邮件",
+      "emailPlaceholder": "your.email@example.com",
+      "message": "留言",
+      "messagePlaceholder": "我们如何帮助您？",
+      "submit": "发送消息"
+    },
+    "contactInfo": {
+      "title": "联系信息",
+      "address": {
+        "title": "地址",
+        "value": "中国北京市朝阳区123号"
+      },
+      "email": {
+        "title": "电子邮件",
+        "value": "contact@example.com"
+      },
+      "phone": {
+        "title": "电话",
+        "value": "+86 10 1234 5678"
+      }
+    }
+  }
+}
