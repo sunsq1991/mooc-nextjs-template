@@ -74,16 +74,18 @@
   },
   "ContactPage": {
     "title": "联系我们",
-    "getInTouch": "取得联系",
-    "contactIntro": "有问题或想了解更多？填写下面的表单，我们的团队将尽快回复您。",
+    "getInTouch": "联系我们",
+    "contactIntro": "有问题或想了解更多？填写下面的表格，我们的团队将尽快回复您。",
     "form": {
       "name": "姓名",
       "namePlaceholder": "您的姓名",
       "email": "电子邮件",
       "emailPlaceholder": "your.email@example.com",
       "message": "留言",
-      "messagePlaceholder": "我们如何帮助您？",
-      "submit": "发送消息"
+      "messagePlaceholder": "我们能为您做些什么？",
+      "submit": "发送留言",
+      "successMessage": "感谢您的留言！我们将尽快与您联系。",
+      "errorMessage": "提交留言时出错。请重试。"
     },
     "contactInfo": {
       "title": "联系信息",

@@ -75,7 +75,7 @@
   "ContactPage": {
     "title": "聯絡我們",
     "getInTouch": "取得聯繫",
-    "contactIntro": "有問題或想了解更多？填寫下面的表單，我們的團隊將盡快回覆您。",
+    "contactIntro": "有問題或想了解更多？填寫下面的表單，我們的團隊將盡快回復您。",
     "form": {
       "name": "姓名",
       "namePlaceholder": "您的姓名",
@@ -83,7 +83,9 @@
       "emailPlaceholder": "your.email@example.com",
       "message": "留言",
       "messagePlaceholder": "我們如何幫助您？",
-      "submit": "發送訊息"
+      "submit": "發送訊息",
+      "successMessage": "感謝您的留言！我們將盡快與您聯繫。",
+      "errorMessage": "提交留言時出錯。請重試。"
     },
     "contactInfo": {
       "title": "聯絡資訊",
