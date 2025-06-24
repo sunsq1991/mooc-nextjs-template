@@ -1,5 +1,5 @@
 {
-  "name": "example-app-router",
+  "name": "mooc-nextjs-template",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
