@@ -7,3 +7,6 @@ tsconfig.tsbuildinfo
 /playwright/.cache/
 out
 messages/en.d.json.ts
+# env files
+.env*
+!.env.local.example
