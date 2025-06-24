@@ -67,21 +67,10 @@
   "BlogPage": {
     "title": "博客",
     "latestPosts": "最新文章",
-    "readMore": "阅读更多",
-    "posts": {
-      "1": {
-        "title": "Next.js入门",
-        "excerpt": "学习如何使用Next.js构建现代Web应用程序"
-      },
-      "2": {
-        "title": "Tailwind CSS的强大功能",
-        "excerpt": "发现Tailwind CSS如何加速您的设计工作流程"
-      },
-      "3": {
-        "title": "使用next-intl进行国际化",
-        "excerpt": "如何使您的Next.js应用支持多种语言"
-      }
-    }
+    "readMore": "阅读更多"
+  },
+  "BlogDetail": {
+    "backToBlog": "返回博客"
   },
   "ContactPage": {
     "title": "联系我们",

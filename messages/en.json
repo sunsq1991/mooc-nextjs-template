@@ -67,21 +67,10 @@
   "BlogPage": {
     "title": "Blog",
     "latestPosts": "Latest Posts",
-    "readMore": "Read More",
-    "posts": {
-      "1": {
-        "title": "Getting Started with Next.js",
-        "excerpt": "Learn how to build modern web applications with Next.js"
-      },
-      "2": {
-        "title": "The Power of Tailwind CSS",
-        "excerpt": "Discover how Tailwind CSS can speed up your design workflow"
-      },
-      "3": {
-        "title": "Internationalization with next-intl",
-        "excerpt": "How to make your Next.js app support multiple languages"
-      }
-    }
+    "readMore": "Read More"
+  },
+  "BlogDetail": {
+    "backToBlog": "Back to Blog"
   },
   "ContactPage": {
     "title": "Contact Us",
