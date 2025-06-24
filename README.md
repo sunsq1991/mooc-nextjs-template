@@ -1,11 +1,26 @@
-# example-app-router
+# mooc-nextjs-template
 
-An example that showcases basic usage of `next-intl` with the App Router, including internationalized routing.
+An example that showcases basic usage of `next-intl` with the App Router, including internationalized routing. And it also shows how to integrate `strapi`.
 
-[Demo](https://next-intl-example-app-router.vercel.app/)
+## How to use
 
-## Deploy your own
+1. Clone the repository
+2. Install dependencies
+3. Configure the environment variables
+4. Run the development server
 
-By deploying to [Vercel](https://vercel.com), you can check out the example in action. Note that you'll be prompted to create a new GitHub repository as part of this, allowing you to make subsequent changes.
+### Configure the environment variables
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/amannn/next-intl/tree/main/examples/example-app-router)
+Copy the `.env.local.example` file to `.env.local` and fill in the environment variables.
+
+```bash
+# Copy the .env.local.example file to .env.local
+# cp .env.local.example .env.local
+```
+
+### Run the development server
+
+```bash
+npm install
+npm run dev
+```
